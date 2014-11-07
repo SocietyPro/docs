@@ -1,4 +1,4 @@
-SocietyPro
-==========
+SocietyPro Documentation
+========================
 
-SocietyPro Wiki
+* [SocietyPro Wiki](https://github.com/SocietyPro/documentation/wiki)
